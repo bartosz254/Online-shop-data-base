@@ -1,0 +1,3 @@
+cd c:\oracle\instantclient_12_2
+sqlplus st12k1k2_PRZYBYLOWSKI_KONRAD/ora24HQ8gZ6wJ@db1
+@c:\oracle\lab
